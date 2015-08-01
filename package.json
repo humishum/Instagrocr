@@ -1,0 +1,23 @@
+{
+  "name": "instagrocr",
+  "version": "0.0.1",
+  "description": "Instagrocr-Lorem desrcription Ipsum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humishum/Instagrocr.git"
+  },
+  "keywords": [
+    "instagrocr",
+    "grocery"
+  ],
+  "author": "Humdaan Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humishum/Instagrocr/issues"
+  },
+  "homepage": "https://github.com/humishum/Instagrocr#readme"
+}
