@@ -14,7 +14,12 @@ login.config(function($routeProvider) {
         .when('/signup',    {
             templateUrl : 'Login/signup.html',
             controller  : 'signupController'
+        })
+        .when('/login',     {
+            templateUrl : 'Login/login.html',
+            controller  : 'loginController'
         });
+        
 })  ;
 
 login.controller('loginController', function($scope) {
